@@ -1,0 +1,17 @@
+.logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.mx-auto{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 50px;
+}
+.offcanvas-end{
+    background-image: url(https://images.unsplash.com/photo-1634655511368-6cd7213719f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80);
+}
+.img-fluid{
+    width: 800px;
+    height: 800px;
+
+}
